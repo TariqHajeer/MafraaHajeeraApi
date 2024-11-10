@@ -1,0 +1,6 @@
+@MafraaHajeeraApi_HostAddress = http://localhost:5294
+
+GET {{MafraaHajeeraApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
